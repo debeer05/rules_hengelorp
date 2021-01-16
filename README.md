@@ -1,1 +1,1 @@
-# rules_hengelorp
+# algemene regels
